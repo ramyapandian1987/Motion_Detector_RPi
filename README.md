@@ -8,7 +8,7 @@ Hardware -
 2.	PIR module
 3.	Breadboard
 4.	GPIO Extension Board
-5.	Resistor
+5.	Resistor 220 ohms
 6.	LED Light
 7.	LCD
 8.	3 Male-to-Male jumper cables
